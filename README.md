@@ -1,4 +1,4 @@
-# Paradise_nursery
+
 # Paradise Nursery
 
 A shopping application for houseplants with a landing page, product listing page, and shopping cart functionality.
